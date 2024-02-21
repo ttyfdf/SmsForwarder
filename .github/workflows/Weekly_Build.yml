@@ -10,7 +10,6 @@ on:
         description: "Weekly Build Title"
         required: true
         default: "SmsForwarder"
-
 jobs:
   build:
     runs-on: ubuntu-latest
